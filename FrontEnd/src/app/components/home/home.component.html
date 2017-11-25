@@ -1,0 +1,14 @@
+<div class="row">
+  <div class="col-md-8">
+      <ul class="list-group" *ngFor='let item of collection'>
+        <li class="list-group-item">
+            {{item.name}}
+          <p>{{item.adress}} </p>
+          <p>{{item.description}} <br/>
+            created By :  {{item.cratedBy.username}}
+          </p>
+        </li>
+      </ul>
+  </div>
+</div>
+   
