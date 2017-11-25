@@ -11,7 +11,7 @@ SpringBoot,Angular-4,Mongodb
 #Steps to Setup
 ---
 **1.Clone the application**
-`git clone https://github.com/zakiziko/EventManageTutorial.git`
+`git clone https://github.com/zakiziko/SpringBoot-angular4-Mongodb-Tutorial.git`
 
 **2.Build and run the backend app using maven**
 
